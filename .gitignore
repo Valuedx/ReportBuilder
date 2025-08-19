@@ -9,6 +9,7 @@ env/
 venv/
 .venv/
 .env/
+backend-env/
 
 # Python cache files
 __pycache__/
